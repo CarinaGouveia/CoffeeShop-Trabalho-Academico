@@ -1,0 +1,111 @@
+#sobre{
+    background-color: #fafafa;
+    padding: 64px 32px;
+    overflow: hidden;
+    margin-top: 100px;
+    
+}
+
+
+#text{
+    
+    margin-top: -35px
+    
+    
+}
+.botao{
+    float: inherit;
+    background-color: #ff8f00 !important;
+    color: #fff;
+    padding: 15px;
+    font-family: fantasy;
+
+    
+}
+
+
+
+#produtos {
+    
+    
+    background-color: #fafafa !important;
+}
+
+#produtos hr {
+    
+    font-family: cursive !important;
+}
+
+.nav-wrapper{
+    border-bottom: solid 7px #a98f71;
+}
+
+#produtos img:hover { 
+-moz-transform: rotate(6deg);
+-webkit-transform: rotate(6deg);
+-o-transform: rotate(6deg);
+-ms-transform: rotate(6deg);
+transform: rotate(6deg);
+}
+
+
+#cardapio2{
+	
+    margin-top: 150px;
+    margin-left: 300px !important;
+
+}
+
+.card-title{
+	margin-left: 10px;
+}
+
+#novidades{
+    
+     background-color: #000 ;
+     border: solid white 3px;
+}
+
+#novidades h6{
+    
+    color: azure;
+   
+}
+
+.card img {
+    max-height: 300px;
+    object-fit: cover;
+}
+      
+ #Opcoes {
+     
+     margin-top: 150px;
+
+}
+#Opcoes h2{
+    
+  
+    font-size: 30px !important;
+}
+ 
+#flyer{
+width: 300px;
+    height: 50%;
+
+
+}
+
+.botao2{
+    
+    float: inherit;
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    font-family: fantasy;
+
+}
+
+form{
+	padding: 10px;
+}
+
