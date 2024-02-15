@@ -1,5 +1,5 @@
 # Coffee Shop
-Desafio, fazer um site de uma cafeteria que seja responsivo, fazer aplicaçoes usando BootsTrap.
+Desafio, fazer um site de uma cafeteria que seja responsivo, fazer aplicaçoes usando Bootstrap.
 
 Primeiro semestre da faculdade
 # 
